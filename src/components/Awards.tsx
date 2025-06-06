@@ -124,10 +124,10 @@ const Awards: React.FC = () => {
           <h2 className="text-3xl font-bold mb-8 text-center">Funding Overview</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold mb-2">€89,150</div>
+              <div className="text-4xl font-bold mb-2">~€103,050</div>
               <div className="text-blue-100">Total Funding Received</div>
               <div className="text-sm text-blue-200 mt-1">
-                (€88,650 scholarships + €250 award + €250 travel grants)
+                (€88,000 + ~€13,900 scholarships + €650 travel + €250 award)
               </div>
             </div>
             <div>

@@ -146,7 +146,9 @@ const Contact: React.FC = () => {
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">References</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Prof. Michael King</h3>
+                              <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                  <a href="https://www.michaelking.ie/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Prof. Michael King</a>
+                </h3>
               <p className="text-blue-600 mb-1">Director</p>
               <p className="text-gray-600 text-sm mb-3">
                 Trinity Impact Evaluation Unit (TIME)<br />

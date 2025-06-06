@@ -134,7 +134,7 @@ const Resume: React.FC = () => {
                 <span className="text-gray-500 text-sm">Sept 2022 – Present</span>
               </div>
               <p className="text-gray-700 mb-2">
-                <strong>Supervisor:</strong> Prof. Michael King
+                                  <strong>Supervisor:</strong> <a href="https://www.michaelking.ie/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Prof. Michael King</a>
               </p>
               <p className="text-gray-700 mb-2">
                 <strong>Thesis:</strong> Essays in Development Economics
