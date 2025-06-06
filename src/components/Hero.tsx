@@ -50,7 +50,7 @@ const Hero: React.FC = () => {
                 Contact Me
               </a>
               <a
-                href="/public/Shrivastava May 2025.pdf"
+                href="/Shrivastava May 2025.pdf"
                 target="_blank"
                 className="border border-blue-600 text-blue-600 px-6 py-3 rounded-lg hover:bg-blue-50 transition duration-300"
               >
