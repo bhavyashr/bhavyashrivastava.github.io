@@ -1,0 +1,194 @@
+Last updated in May 2025
+Bhavya Shrivastava
+ Dublin, Ireland	 shrivasb@tcd.ie	 +353-899463310	 bhavyashrivastava
+Education 	
+
+PhD	Trinity College Dublin, Economics
+	•	Supervisor: Michael King 
+	•	Thesis: Essays in Development Economics
+	•	Thesis Committee: Carol Newman , Martina Kirchberger 
+MA	University of Warwick, International Development
+	•	Thesis Advisor: Margarita Gelepithis 
+	•	Thesis: A critical analysis of Microfinance in India
+	•	GPA: 3.7 (Merit)
+ Sept 2022 – Present
+
+
+
+
+Oct 2017 – Oct 2018
+
+Experience 	
+
+World Bank, Consultant
+	•	Co-designed with the Gender Innovation Lab (GIL) at the World Bank, an experiment that aimed to assess the impact of business training on MSME owners in Nigeria. The training sessions focused on boosting women’s confidence and developing business skills.
+	•	Conducted an in-depth literature review to help inform the Randomized Controlled Trial (RCT) design.
+	•	Oversaw the drafting and regular revision of important project documents.
+	•	Displayed extensive stakeholder engagement through regular calls to align project goals.
+LEAD at IFMR, Senior Research Associate 
+	•	Re-designed research designs to fit the local context and developed quantitative and qualitative research instruments.
+	•	Led the field operations by directing 15 enumerator training, and evaluating enumera- tor performance. This resulted in a 10% increase in enumerators’ productivity by lever- aging metadata variables such as interview completion time, number of calls made, and others.
+	•	Managed internal and external stakeholders, ensuring seamless project execution.
+	•	Drafted successful grant proposals worth $50k USD to organizations such as UNCDF
+	•	Devised budgets for various projects at LEAD and implemented projects on the budget, ensuring optimal resource allocation.
+	•	Promoted within less than two years—faster than the typical timeline—based on ex- ceptional performance and contributions across multiple projects.
+Madras Institute of Development Studies, Research Investigator 
+	•	Led the design of baseline research instruments for the Tamil Nadu Household Panel Survey, collaborating with the University of Michigan team to ensure methodological rigor 
+	•	Liaised with the Government of Tamil Nadu, driving discussions and finalizing the re- search instrument to align with government goals
+	•	Coordinated with stakeholders to develop the COVID Pulse Survey questionnaire in June 2020, providing rapid insights during the pandemic 
+ Dublin, Ireland Oct 2023 – Present
+
+
+
+
+
+
+
+
+New Delhi, India July 2020 – Aug 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chennai, India June 2019 – June 2020
+
+KPMG, Associate Consultant - Strategy
+	•	Conceptualized publicity schemes for international clients and produced high-quality slide decks and reports for stakeholder presentations
+	•	Coordinated between team members, ensuring effective communication
+ New Delhi, India Nov 2018 – June 2019
+
+
+Publications 	
+
+ExenDT 2 Deliverable 7.2 - Cycle 2 Evaluation Report, Cycle 2 Evaluation Report 
+Girvan, C., Walsh, S., Shrivastava, B., Greka, C., Schiza, K., Nikolaou, M-S., Zhang, F., Shrestha, S., Strubbe, K. & Ornekoglu Selcuk, M. (2024)
+Analysed data and generated a critical report for a high-stakes project commissioned by the EU. The project aims to deliver an evaluation report on the use of technology in classroom teaching
+How Good is Your Data? Challenges of Ensuring Data Quality in a Large-Scale Survey: Lessons from the Tamil Nadu Household Panel Survey (TNHPS), Working Paper 
+Ananthpur, Kripa & de Jong, Julie & Sridharan, Gargi & Shrivastava, Bhavya (2023)
+The working paper "How Good is Your Data?" examines the transition from paper-based to computer-assisted interviewing in the Tamil Nadu Household Panel Survey (TNHPS). It dis- cusses challenges in ensuring data quality during large-scale surveys and offers quality con- trol guidance to minimize errors and enhance data reliability.
+ Sep 2024
+
+
+
+
+
+
+July 2023
+
+Research Projects 	
+
+Bridging the Gap: Assessing Demand-Side Constraints in Loan Access for Female En- trepreneurs in Nigeria
+Objective: This study aims to assess the impact of targeted training sessions—focusing on business skills and confidence building, on the demand for credit among female entrepreneurs. It seeks to generate evidence on the financial gap among Nigerian female entrepreneurs, particularly due to the low demand for business loans.
+	•	Co-designed the field experiment
+	•	Led the effort in generating official documents required to run the experiment in the field
+	•	Designed the questionnaires for the endline and the baseline of the study
+	•	Tools Used: MS Office, STATA, R, LATEX
+Financing Female Micro-Entrepreneurs: An Experiment on Flexible and Sustainable Credit Products
+Objective: This study aims to evaluate the impact of innovative loan products on the busi-
+ness performance, financial well-being, and empowerment of Indian female microentrepreneurs.
+	•	Led field operations for four rounds of primary data collection (12,000 observations), including leading enumerator trainings and conducting extensive SurveyCTO valida- tions to ensure data accuracy and operational efficiency.
+	•	Conducted extensive data cleaning, coding, and regression analyses over months to produce research findings.
+	•	Designed the paper’s preliminary conceptual framework and authored the initial manuscript draft.
+	•	Tools Used: MS Office, STATA, R, LATEX
+Backlash against Airbnb: Evidence from London
+Research Assistant to Prof Nicola Fontana
+	•	Led data cleaning and spatial analysis by processing large datasets in Excel and map- ping geographic coordinates using ArcGIS
+ Feb 2025 [Ongoing]
+
+
+
+
+
+
+
+
+
+
+
+Feb 2025 [Ongoing]
+
+
+
+
+
+
+
+
+
+
+
+
+July 2024
+
+	•	Developed and implemented automated text analysis pipelines for large volumes of Airbnb reviews using Large Language Models (LLMs)
+	•	Tools Used: ArcGIS, Python
+
+Awards & Grants 	
+
+ISWE Award
+Irish Society for Women in Economics, IEA 2025
+	•	€250; joint award for Best Paper presented by a Female Economist at IEA 2025
+Travel Grant
+Trinity Research in Social Sciences (TRiSS), Trinity College Dublin
+	•	€650; sponsored by TRiSS to present the findings of my research at University of Oxford
+PhD Scholarship
+Dept. of Economics, Trinity College Dublin
+	•	€88,000; sponsored by the Dept. of Economics to pursue PhD
+GREAT Britain Scholarship
+Politics and International Studies, University of Warwick (UoW)
+	•	£12,000; sponsored by British Council, GREAT & UoW to pursue MA 
+ May 2025
+
+
+
+Feb 2025
+
+
+Sep 2022
+
+
+Oct 2017
+
+
+Conferences & Seminars 	
+
+2025
+Centre for the Study of African Economies Conference 2025  Irish Economic Association 2025 
+Uni of Oxford, UK Queen’s University, UK
+2024
+BREW-ESA 2024 
+Advances in Field Experiment 2024  Irish Economic Association 2024 
+Ashoka University, India
+LSE, UK
+Uni of Galway, Ireland
+Teaching Experience 	
+
+Economy of Ireland, Prof. Barra Roantree, Prof. Francis O’ Toole Teaching Assistant, Undergraduate, Dept. of Economics, TCD Impact Evaluation, Dr. Tara Bedi
+Teaching Assistant, Postgraduate, Dept. of Geography, TCD
+ Sep 2024 - Present Jan 2023 - Present
+
+Skills 	
+Programming: R, STATA, Python, LATEX, SurveyCTO, ArcGIS, MS Office
+Languages: English (Native), Hindi (Native), Bengali (Intermediate), French (Basic)
+
+References 	
+Prof. Michael King
+
+Director
+Trinity Impact Evaluation Unit (TIME) Department of Economics
+Trinity College, University of Dublin Email: Michael.King@tcd.ie
+ Prof. Nicola Fontana Assistant Professor Department of Economics
+Trinity College, University of Dublin Email: nicola.fontana@tcd.ie
+ Dr. Fabrizio Valenti
+Senior Consultant, KSAR Consulting Group
+Ottawa, Canada
+Email: fabrizio.valenti@ksar.co
