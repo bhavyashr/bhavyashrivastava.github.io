@@ -46,6 +46,10 @@ const Gallery = () => {
     {
       image: 'research-group-at-trinity-college-dublin.jpeg',
       caption: 'Research Group at Trinity College Dublin'
+    },
+    {
+      image: 'trinity-cohort-2022.jpeg',
+      caption: 'My research cohort at Trinity College Dublin'
     }
   ];
 

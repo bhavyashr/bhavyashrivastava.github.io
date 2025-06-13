@@ -63,7 +63,7 @@ const Research: React.FC = () => {
             <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8">
               <div className="flex justify-between items-start mb-4">
                 <h3 className="text-2xl font-semibold text-gray-900">
-                  Bridging the Gap: Assessing Demand-Side Constraints in Loan Access for Female Entrepreneurs in Nigeria
+                  Bridging the Gap: Assessing Demand-Side Constraints in Loan Access for Female Entrepreneurs in Nigeria <span className="text-sm"> (with Michael King)</span>
                 </h3>
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
                   Ongoing
@@ -91,7 +91,7 @@ const Research: React.FC = () => {
             <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8">
               <div className="flex justify-between items-start mb-4">
                 <h3 className="text-2xl font-semibold text-gray-900">
-                  Financing Female Micro-Entrepreneurs: An Experiment on Flexible and Sustainable Credit Products
+                  Financing Female Micro-Entrepreneurs: An Experiment on Flexible and Sustainable Credit Products <span className="text-sm"> (with William Jack & Michael King)</span>
                 </h3>
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
                   Ongoing
