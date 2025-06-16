@@ -85,7 +85,7 @@ const Contact: React.FC = () => {
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-700"
                   >
-                    bhavyashrivastava
+                    bhavya-shrivastava
                   </a>
                 </div>
               </div>
