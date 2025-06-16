@@ -15,8 +15,8 @@ function App() {
         <Navigation />
         <main className="relative">
           <Routes>
-            <Route path="/" element={<Navigate to="/about" replace />} />
-            <Route path="/about" element={<Hero />} />
+            <Route path="/" element={<Hero />} />
+            <Route path="/about" element={<Navigate to="/" replace />} />
             <Route path="/research" element={<Research />} />
             <Route path="/resume" element={<Resume />} />
             <Route path="/awards" element={<Awards />} />
