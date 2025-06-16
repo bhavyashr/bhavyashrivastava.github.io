@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
                 <div>
                   <p className="font-medium text-gray-900">LinkedIn</p>
                   <a 
-                    href="https://www.linkedin.com/in/bhavyashrivastava" 
+                    href="https://www.linkedin.com/in/bhavya-shrivastava/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-700"
