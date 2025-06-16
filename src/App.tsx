@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React from 'react';
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import Hero from './components/Hero';
 import Research from './components/Research';
@@ -7,38 +8,25 @@ import Awards from './components/Awards';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 
-type TabType = 'about' | 'research' | 'resume' | 'awards' | 'gallery' | 'contact';
-
 function App() {
-  const [activeTab, setActiveTab] = useState<TabType>('about');
-
-  const renderContent = () => {
-    switch (activeTab) {
-      case 'about':
-        return <Hero />;
-      case 'research':
-        return <Research />;
-      case 'resume':
-        return <Resume />;
-      case 'awards':
-        return <Awards />;
-      case 'gallery':
-        return <Gallery />;
-      case 'contact':
-        return <Contact />;
-      default:
-        return <Hero />;
-    }
-  };
-
   return (
-    <div className="min-h-screen bg-gray-50">
-      <Navigation activeTab={activeTab} setActiveTab={setActiveTab} />
-      <main className="relative">
-        {renderContent()}
-      </main>
-    </div>
+    <HashRouter>
+      <div className="min-h-screen bg-gray-50">
+        <Navigation />
+        <main className="relative">
+          <Routes>
+            <Route path="/" element={<Navigate to="/about" replace />} />
+            <Route path="/about" element={<Hero />} />
+            <Route path="/research" element={<Research />} />
+            <Route path="/resume" element={<Resume />} />
+            <Route path="/awards" element={<Awards />} />
+            <Route path="/gallery" element={<Gallery />} />
+            <Route path="/contact" element={<Contact />} />
+          </Routes>
+        </main>
+      </div>
+    </HashRouter>
   );
 }
 
-export default App; 
+export default App;

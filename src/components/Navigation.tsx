@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
+import { Link, useLocation } from 'react-router-dom';
 
 type TabType = 'about' | 'research' | 'resume' | 'awards' | 'gallery' | 'contact';
 
@@ -10,6 +11,10 @@ interface NavigationProps {
 
 const Navigation: React.FC<NavigationProps> = ({ activeTab, setActiveTab }) => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const location = useLocation();
+  const currentPath = location.pathname.substring(1) || 'about';
+
+  const isActiveTab = (tab: string) => currentPath === tab;
 
   const handleTabChange = (tab: TabType) => {
     setActiveTab(tab);
@@ -43,18 +48,19 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, setActiveTab }) => {
           <div className="hidden md:block">
             <div className="flex space-x-1">
               {tabs.map((tab) => (
-                <button
+                <Link
                   key={tab.id}
+                  to={`/${tab.id}`}
                   onClick={() => handleTabChange(tab.id as TabType)}
                   className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300 flex items-center space-x-2 ${
-                    activeTab === tab.id
+                    isActiveTab(tab.id)
                       ? 'bg-blue-600 text-white shadow-lg'
                       : 'text-gray-600 hover:text-blue-600 hover:bg-blue-50'
                   }`}
                 >
                   <i className="material-icons text-sm">{tab.icon}</i>
                   <span>{tab.label}</span>
-                </button>
+                </Link>
               ))}
             </div>
           </div>
@@ -82,21 +88,22 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, setActiveTab }) => {
           >
             <div className="flex flex-col space-y-2">
               {tabs.map((tab) => (
-                <button
+                <Link
                   key={tab.id}
+                  to={`/${tab.id}`}
                   onClick={() => {
                     handleTabChange(tab.id as TabType);
                     setIsMobileMenuOpen(false);
                   }}
                   className={`px-4 py-3 rounded-lg text-sm font-medium transition-all duration-300 flex items-center space-x-3 ${
-                    activeTab === tab.id
+                    isActiveTab(tab.id)
                       ? 'bg-blue-600 text-white'
                       : 'text-gray-600 hover:text-blue-600 hover:bg-blue-50'
                   }`}
                 >
                   <i className="material-icons text-sm">{tab.icon}</i>
                   <span>{tab.label}</span>
-                </button>
+                </Link>
               ))}
             </div>
           </motion.div>
@@ -106,4 +113,4 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, setActiveTab }) => {
   );
 };
 
-export default Navigation; 
+export default Navigation;
