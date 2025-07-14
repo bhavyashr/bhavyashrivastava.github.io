@@ -40,18 +40,6 @@ const Contact: React.FC = () => {
 
               <div className="flex items-center space-x-4">
                 <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
-                  <i className="material-icons text-blue-600">phone</i>
-                </div>
-                <div>
-                  <p className="font-medium text-gray-900">Phone</p>
-                  <a href="tel:+353-899463310" className="text-blue-600 hover:text-blue-700">
-                    +353-899463310
-                  </a>
-                </div>
-              </div>
-
-              <div className="flex items-center space-x-4">
-                <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
                   <i className="material-icons text-blue-600">location_on</i>
                 </div>
                 <div>
