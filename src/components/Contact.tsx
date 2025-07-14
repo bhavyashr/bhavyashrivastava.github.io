@@ -164,7 +164,9 @@ const Contact: React.FC = () => {
             </div>
 
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Prof. Nicola Fontana</h3>
+              <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                  <a href="https://www.nicola-fontana.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Prof. Nicola Fontana</a>
+                </h3>
               <p className="text-blue-600 mb-1">Assistant Professor</p>
               <p className="text-gray-600 text-sm mb-3">
                 Department of Economics<br />
@@ -179,7 +181,9 @@ const Contact: React.FC = () => {
             </div>
 
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Dr. Fabrizio Valenti</h3>
+              <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                  <a href="https://www.researchgate.net/profile/Fabrizio-Valenti-2" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Dr. Fabrizio Valenti</a>
+                </h3>
               <p className="text-blue-600 mb-1">Senior Consultant</p>
               <p className="text-gray-600 text-sm mb-3">
                 KSAR Consulting Group<br />

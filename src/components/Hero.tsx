@@ -142,8 +142,10 @@ const Hero: React.FC = () => {
           <div className="space-y-6">
           <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
-                <h3 className="text-xl font-semibold text-gray-900">
+                <h3 className="text-xl font-semibold text-blue-600 underline">
+                  <a href='https://www.iea.ie/2024/11/12/new-irish-economic-association-conference-2025/' target='_blank'>
                 Inaugural Irish Public Economic Workshop (IPEW) 2025
+                </a>
                 </h3>
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
                   Upcoming
@@ -156,8 +158,10 @@ const Hero: React.FC = () => {
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
-                <h3 className="text-xl font-semibold text-gray-900">
+                <h3 className="text-xl font-semibold text-blue-600 underline">
+                  <a href='https://csae.web.ox.ac.uk/sitefiles/csaeconf2025programme-at-a-glance-final.pdf' target='_blank'>
                   Centre for the Study of African Economies Conference 2025
+                  </a>
                 </h3>
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
                   Completed
@@ -171,8 +175,8 @@ const Hero: React.FC = () => {
 
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
-                <h3 className="text-xl font-semibold text-gray-900">
-                  Irish Economic Association 2025
+                <h3 className="text-xl font-semibold text-blue-600 underline">
+                  <a href='https://www.iea.ie/app/uploads/2024/04/IEA2024-Conference-Programme.pdf' target='_blank'>Irish Economic Association 2025</a>
                 </h3>
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
                   Completed
@@ -186,8 +190,10 @@ const Hero: React.FC = () => {
 
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
-                <h3 className="text-xl font-semibold text-gray-900">
+                <h3 className="text-xl font-semibold text-blue-600 underline">
+                  <a href='http://ashoka.edu.in/event/brewesa-conference/' target='_blank'>
                   BREW-ESA 2024
+                  </a>
                 </h3>
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
                   Completed
@@ -201,8 +207,10 @@ const Hero: React.FC = () => {
 
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
-                <h3 className="text-xl font-semibold text-gray-900">
+                <h3 className="text-xl font-semibold text-blue-600 underline">
+                  <a href='https://www.canva.com/design/DAGNRn6tiFs/zDsj63lZyFXE2JdmY3a0iQ/view?utm_content=DAGNRn6tiFs&utm_campaign=designshare&utm_medium=link&utm_source=editor#1' target='_blank'>
                   Advances in Field Experiment 2024
+                  </a>
                 </h3>
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
                   Completed

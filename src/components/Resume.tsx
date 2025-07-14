@@ -178,7 +178,7 @@ const Resume: React.FC = () => {
               <div className="flex justify-between items-start mb-3">
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">Consultant</h3>
-                  <p className="text-lg text-blue-600">World Bank</p>
+                  <p className="text-lg text-blue-600 underline"><a href='https://www.worldbank.org/' target='_blank'>World Bank</a></p>
                   <p className="text-gray-600">Dublin, Ireland</p>
                 </div>
                 <span className="text-gray-500 text-sm">Oct 2023 – Present</span>
@@ -196,7 +196,7 @@ const Resume: React.FC = () => {
               <div className="flex justify-between items-start mb-3">
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">Senior Research Associate</h3>
-                  <p className="text-lg text-blue-600">LEAD at IFMR</p>
+                  <p className="text-lg text-blue-600 underline"><a href='https://ifmrlead.org/' target='_blank'>LEAD at IFMR</a></p>
                   <p className="text-gray-600">New Delhi, India</p>
                 </div>
                 <span className="text-gray-500 text-sm">July 2020 – Aug 2022</span>
@@ -216,7 +216,7 @@ const Resume: React.FC = () => {
               <div className="flex justify-between items-start mb-3">
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">Research Investigator</h3>
-                  <p className="text-lg text-blue-600">Madras Institute of Development Studies</p>
+                  <p className="text-lg text-blue-600 underline"><a href='https://www.mids.ac.in/' target='_blank'>Madras Institute of Development Studies</a></p>
                   <p className="text-gray-600">Chennai, India</p>
                 </div>
                 <span className="text-gray-500 text-sm">June 2019 – June 2020</span>
@@ -232,7 +232,7 @@ const Resume: React.FC = () => {
               <div className="flex justify-between items-start mb-3">
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">Associate Consultant - Strategy</h3>
-                  <p className="text-lg text-blue-600">KPMG</p>
+                  <p className="text-lg text-blue-600 underline"><a href='https://kpmg.com/ie/en/home.html' target='_blank'>KPMG</a></p>
                   <p className="text-gray-600">New Delhi, India</p>
                 </div>
                 <span className="text-gray-500 text-sm">Nov 2018 – June 2019</span>

@@ -11,7 +11,7 @@ MA	University of Warwick, International Development
 	•	Thesis Advisor: Margarita Gelepithis 
 	•	Thesis: A critical analysis of Microfinance in India
 	•	GPA: 3.7 (Merit)
- Sept 2022 – Present
+Sept 2022 – Present
 
 
 
@@ -36,7 +36,7 @@ Madras Institute of Development Studies, Research Investigator
 	•	Led the design of baseline research instruments for the Tamil Nadu Household Panel Survey, collaborating with the University of Michigan team to ensure methodological rigor 
 	•	Liaised with the Government of Tamil Nadu, driving discussions and finalizing the re- search instrument to align with government goals
 	•	Coordinated with stakeholders to develop the COVID Pulse Survey questionnaire in June 2020, providing rapid insights during the pandemic 
- Dublin, Ireland Oct 2023 – Present
+Dublin, Ireland Oct 2023 – Present
 
 
 
@@ -64,7 +64,7 @@ Chennai, India June 2019 – June 2020
 KPMG, Associate Consultant - Strategy
 	•	Conceptualized publicity schemes for international clients and produced high-quality slide decks and reports for stakeholder presentations
 	•	Coordinated between team members, ensuring effective communication
- New Delhi, India Nov 2018 – June 2019
+New Delhi, India Nov 2018 – June 2019
 
 
 Publications 	
@@ -75,7 +75,7 @@ Analysed data and generated a critical report for a high-stakes project commissi
 How Good is Your Data? Challenges of Ensuring Data Quality in a Large-Scale Survey: Lessons from the Tamil Nadu Household Panel Survey (TNHPS), Working Paper 
 Ananthpur, Kripa & de Jong, Julie & Sridharan, Gargi & Shrivastava, Bhavya (2023)
 The working paper "How Good is Your Data?" examines the transition from paper-based to computer-assisted interviewing in the Tamil Nadu Household Panel Survey (TNHPS). It dis- cusses challenges in ensuring data quality during large-scale surveys and offers quality con- trol guidance to minimize errors and enhance data reliability.
- Sep 2024
+Sep 2024
 
 
 
@@ -102,7 +102,7 @@ ness performance, financial well-being, and empowerment of Indian female microen
 Backlash against Airbnb: Evidence from London
 Research Assistant to Prof Nicola Fontana
 	•	Led data cleaning and spatial analysis by processing large datasets in Excel and map- ping geographic coordinates using ArcGIS
- Feb 2025 [Ongoing]
+Feb 2025 [Ongoing]
 
 
 
@@ -146,7 +146,7 @@ Dept. of Economics, Trinity College Dublin
 GREAT Britain Scholarship
 Politics and International Studies, University of Warwick (UoW)
 	•	£12,000; sponsored by British Council, GREAT & UoW to pursue MA 
- May 2025
+May 2025
 
 
 
@@ -174,7 +174,7 @@ Teaching Experience
 
 Economy of Ireland, Prof. Barra Roantree, Prof. Francis O’ Toole Teaching Assistant, Undergraduate, Dept. of Economics, TCD Impact Evaluation, Dr. Tara Bedi
 Teaching Assistant, Postgraduate, Dept. of Geography, TCD
- Sep 2024 - Present Jan 2023 - Present
+Sep 2024 - Present Jan 2023 - Present
 
 Skills 	
 Programming: R, STATA, Python, LATEX, SurveyCTO, ArcGIS, MS Office
@@ -186,9 +186,9 @@ Prof. Michael King
 Director
 Trinity Impact Evaluation Unit (TIME) Department of Economics
 Trinity College, University of Dublin Email: Michael.King@tcd.ie
- Prof. Nicola Fontana Assistant Professor Department of Economics
+Prof. Nicola Fontana Assistant Professor Department of Economics
 Trinity College, University of Dublin Email: nicola.fontana@tcd.ie
- Dr. Fabrizio Valenti
+Dr. Fabrizio Valenti
 Senior Consultant, KSAR Consulting Group
 Ottawa, Canada
 Email: fabrizio.valenti@ksar.co

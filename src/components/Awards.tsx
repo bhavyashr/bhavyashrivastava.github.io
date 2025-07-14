@@ -99,7 +99,7 @@ const Awards: React.FC = () => {
             <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8">
               <div className="flex justify-between items-start mb-4">
                 <div>
-                  <h3 className="text-2xl font-semibold text-gray-900">GREAT Britain Scholarship</h3>
+                  <h3 className="text-2xl font-semibold text-blue-900 underline"><a href='https://www.britishcouncil.in/study-uk/scholarships/great-scholarships' target='_blank'>GREAT Britain Scholarship</a></h3>
                   <p className="text-lg text-blue-600">Politics and International Studies, University of Warwick</p>
                 </div>
                 <span className="bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-medium">

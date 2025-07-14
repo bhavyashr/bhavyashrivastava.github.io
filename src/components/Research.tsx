@@ -162,7 +162,7 @@ const Research: React.FC = () => {
                 <span className="text-sm text-gray-500">September 2024</span>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                ExenDT 2 Deliverable 7.2 - Cycle 2 Evaluation Report
+                ExenDT 2 Deliverable 7.2 - <a className='text-blue-600 underline' href='https://extendt2.eu/wp-content/uploads/2024/10/Cycle-2_Evaluation-Report_Final.pdf' target='_blank'>Cycle 2 Evaluation Report</a>
               </h3>
               <p className="text-gray-600 mb-3">
                 Girvan, C., Walsh, S., <strong>Shrivastava, B.</strong>, Greka, C., Schiza, K., Nikolaou, M-S., 
@@ -183,7 +183,7 @@ const Research: React.FC = () => {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
                 How Good is Your Data? Challenges of Ensuring Data Quality in a Large-Scale Survey: 
-                Lessons from the Tamil Nadu Household Panel Survey (TNHPS)
+                Lessons from the Tamil Nadu Household Panel Survey (TNHPS) - <a className='text-blue-600 underline' href='https://www.mids.ac.in/assets/doc/WP_243.pdf' target='_blank'>Working Paper</a>
               </h3>
               <p className="text-gray-600 mb-3">
                 Ananthpur, Kripa & de Jong, Julie & Sridharan, Gargi & <strong>Shrivastava, Bhavya</strong> (2023)
