@@ -141,21 +141,6 @@ const Hero: React.FC = () => {
           </h2>
           <div className="space-y-6">
           <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
-              <div className="flex justify-between items-start mb-3">
-                <h3 className="text-xl font-semibold text-blue-600 underline">
-                  <a href='https://www.iea.ie/2024/11/12/new-irish-economic-association-conference-2025/' target='_blank'>
-                Inaugural Irish Public Economic Workshop (IPEW) 2025
-                </a>
-                </h3>
-                <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                  Upcoming
-                </span>
-              </div>
-              <p className="text-gray-600 mb-2">Central Bank of Ireland</p>
-              <p className="text-gray-700">
-              Assessing long term impact of tax individualization on secondary earners' labour market outcomes and bargaining power
-              </p>
-            </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
                 <h3 className="text-xl font-semibold text-blue-600 underline">
