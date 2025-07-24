@@ -140,7 +140,6 @@ const Hero: React.FC = () => {
             Recent Conference Presentations
           </h2>
           <div className="space-y-6">
-          <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
                 <h3 className="text-xl font-semibold text-blue-600 underline">
