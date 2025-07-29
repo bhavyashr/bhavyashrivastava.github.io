@@ -143,6 +143,22 @@ const Hero: React.FC = () => {
             <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
               <div className="flex justify-between items-start mb-3">
                 <h3 className="text-xl font-semibold text-blue-600 underline">
+                  <a href='https://iswe.ie/events/' target='_blank'>
+                  The second annual <b>ISWE Conference on ‘Diversity, Economics, and Society‘</b>
+                  </a>
+                </h3>
+                <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
+                  Upcoming
+                </span>
+              </div>
+              <p className="text-gray-600 mb-2">Central Bank of Ireland</p>
+              <p className="text-gray-700">
+                Poster presentation on <b>Understanding Financial Exclusion among Immigrants in Europe</b>
+              </p>
+            </div>
+            <div className="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
+              <div className="flex justify-between items-start mb-3">
+                <h3 className="text-xl font-semibold text-blue-600 underline">
                   <a href='https://csae.web.ox.ac.uk/sitefiles/csaeconf2025programme-at-a-glance-final.pdf' target='_blank'>
                   Centre for the Study of African Economies Conference 2025
                   </a>
