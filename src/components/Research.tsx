@@ -157,6 +157,23 @@ const Research: React.FC = () => {
             <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
               <div className="flex justify-between items-start mb-3">
                 <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
+                  Media
+                </span>
+                <span className="text-sm text-gray-500">July 2025</span>
+              </div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">
+                How the 'sandwich generation' are caught up in cost of living crisis - <a className='text-blue-600 underline' href='https://www.rte.ie/brainstorm/2025/0729/1525873-sandwich-generation-squeezed-middle-cost-of-living-crisis-healthcare-housing/' target='_blank'>RTÉ Brainstorm</a>
+              </h3>
+              <p className="text-gray-600 mb-3">
+                <strong>Bhavya Shrivastava</strong>
+              </p>
+              <p className="text-gray-700">
+                Analysis of the pressures on adults supporting both children and ageing parents during Ireland’s cost-of-living crisis.
+              </p>
+            </div>
+            <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+              <div className="flex justify-between items-start mb-3">
+                <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
                   Published
                 </span>
                 <span className="text-sm text-gray-500">September 2024</span>
