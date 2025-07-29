@@ -156,7 +156,7 @@ const Research: React.FC = () => {
           <div className="space-y-6">
             <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
               <div className="flex justify-between items-start mb-3">
-                <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
+                <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">
                   Media
                 </span>
                 <span className="text-sm text-gray-500">July 2025</span>
