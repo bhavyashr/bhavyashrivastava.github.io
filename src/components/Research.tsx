@@ -154,6 +154,23 @@ const Research: React.FC = () => {
         >
           <h2 className="text-3xl font-bold text-gray-900 mb-8">Publications</h2>
           <div className="space-y-6">
+                        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+              <div className="flex justify-between items-start mb-3">
+                <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">
+                  Media
+                </span>
+                <span className="text-sm text-gray-500">September 2025</span>
+              </div>
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">
+                All you need to know about pension auto-enrolment in Ireland - <a className='text-blue-600 underline' href='https://www.rte.ie/brainstorm/2025/0902/1530891-ireland-pension-auto-enrolment-explained/' target='_blank'>RTÉ Brainstorm</a>
+              </h3>
+              <p className="text-gray-600 mb-3">
+                <strong>Bhavya Shrivastava</strong>
+              </p>
+              <p className="text-gray-700">
+                Analysis of how Ireland’s new pension auto-enrolment scheme will impact workers, employers, and the future of retirement savings.
+              </p>
+            </div>
             <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
               <div className="flex justify-between items-start mb-3">
                 <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">

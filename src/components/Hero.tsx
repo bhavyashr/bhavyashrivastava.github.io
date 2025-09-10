@@ -147,8 +147,8 @@ const Hero: React.FC = () => {
                   The second annual <b>ISWE Conference on ‘Diversity, Economics, and Society‘</b>
                   </a>
                 </h3>
-                <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                  Upcoming
+                <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
+                  Completed
                 </span>
               </div>
               <p className="text-gray-600 mb-2">Central Bank of Ireland</p>
